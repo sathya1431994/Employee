@@ -3,7 +3,6 @@ import java.util.*;
 import java.sql.*;
 import java.sql.DriverManager;
 import java.sql.Connection;
-import com.mysql.jdbc.Driver;
 public class DB
 {
     static Connection conn;
